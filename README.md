@@ -1,2 +1,3 @@
 # Open-source-prosthetic-hand-design
-An open source , parametric design prosthesis that can be manufactured using FDM , SLS and I am working on a laser cut version . I am working on the parametric part , as I am encountering many bugs with FreeCAD , therefore I’ve been using some Solidworks and Blender to make up for it, unfortunately increasing the difficulty of my objective. 
+An open source , parametric design prosthesis that can be manufactured using FDM , SLS and I am working on a laser cut version . I am working on the parametric part , 
+20/08/25. we are basing the adult hand on a robotic hand design from Polymorph with permission, acting as a fork, our design is different as we are aiming to use different actuators. this is only for the beta versions, to test the hardware and software at the same time as us producing our own design. when we release the first version of both our adult hand and child hand, it will be designed from the ground up.
